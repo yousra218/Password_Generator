@@ -17,5 +17,5 @@ Un script shell pour générer les mots de passe
 
      ./password_generator.sh 
 
- >> Indication du nombre de mot de pass à générer
- >> Génération des mots de passe 
+ >> Indication de la longueur du mot de passe à générer
+> > Génération du mot de passe ! 
